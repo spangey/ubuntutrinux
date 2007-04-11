@@ -1,5 +1,5 @@
 = Requirements =
 
- * Ubuntu package compatibility
- * Ubuntu repository compatibility
-
+|| Requirement || Status ||
+|| Ubuntu package compatibility || ||
+|| Ubuntu repository compatibility || ||
