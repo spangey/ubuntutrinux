@@ -3,3 +3,4 @@ The following projects/sources were used in this effort:
  * [http://trinux.sourceforge.net Trinux: A Linux Security Toolkit] 
  * [http://www.ubuntu.com/GetUbuntu/releasenotes/606 Ubuntu 6.06 LTS]
  * [http://packages.ubuntu.com/dapper/utils/initramfs-tools initramfs-tools]
+ * [http://syslinux.zytor.com/ SYSLINUX]
