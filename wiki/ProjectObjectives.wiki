@@ -1,6 +1,5 @@
-
 = Requirements =
 
+ * Ubuntu package compatibility
+ * Ubuntu repository compatibility
 
-
-= Related Pages =
