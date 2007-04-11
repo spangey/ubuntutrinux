@@ -1,0 +1,5 @@
+
+The following projects/sources were used in this effort
+
+ * [http://trinux.sourceforge.net Trinux: A Linux Security Toolkit] 
+ *
