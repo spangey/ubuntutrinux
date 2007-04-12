@@ -1,5 +1,10 @@
 = Requirements =
 
-|| Requirement || Status ||
-|| Ubuntu package compatibility || ||
-|| Ubuntu repository compatibility || ||
+ * Ubuntu binary compatibility - complete, duh, handled automatically by mkinitramfs)
+ * Ubuntu package compatibility - 
+ * Ubuntu repository compa
+
+= Non Requirements =
+
+ * PCMCIA and all that 20th century technology
+ * X and all that 1970s technology
