@@ -5,3 +5,7 @@ The following projects/sources were used in this effort:
  * [http://packages.ubuntu.com/dapper/utils/initramfs-tools initramfs-tools]
  * [http://syslinux.zytor.com/ SYSLINUX]
  * [http://busybox.net Busybox]
+
+The following are useful documents:
+
+ * [http://www.mjmwired.net/kernel/Documentation/filesystems/ramfs-rootfs-initramfs.txt ramfs-rootfs-initramfs.txt] - from kernel documentation
