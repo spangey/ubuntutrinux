@@ -1,4 +1,4 @@
-#Tools to be included in a Trinux core distribution (no more than 10MB)
+#comment Tools to be included in a Trinux core distribution (no more than 10MB)
 
 = Network Configuration =
  * DHCP client
