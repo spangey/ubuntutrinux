@@ -1,5 +1,9 @@
 #summary requested tools to be included in a Trinux core
 
+= Network Configuration =
+ * DHCP
+ * ntp client/ntpdate
+
 = Scanning =
  * nmap
 
