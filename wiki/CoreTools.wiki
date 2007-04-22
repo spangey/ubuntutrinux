@@ -1,7 +1,7 @@
-#summary requested tools to be included in a Trinux core
+#Tools to be included in a Trinux core distribution (no more than 10MB)
 
 = Network Configuration =
- * DHCP
+ * DHCP client
  * ntp client/ntpdate
 
 = Scanning =
