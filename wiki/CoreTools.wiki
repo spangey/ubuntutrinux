@@ -1,11 +1,12 @@
-#comment Tools to be included in a Trinux core distribution (no more than 10MB)
+''Tools to be included in a Trinux core distribution (no more than 10MB)''
 
 = Network Configuration =
  * DHCP client
  * ntp client/ntpdate
 
-= Scanning =
+= Scanning/Packet Generation =
  * nmap
+ * hping2
 
 = Network Monitoring =
 
