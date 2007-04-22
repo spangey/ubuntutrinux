@@ -1,0 +1,9 @@
+#summary requested tools to be included in a Trinux core
+
+= Scanning =
+ * nmap
+
+= Network Monitoring =
+
+ * tcpdump
+ * netwatch
